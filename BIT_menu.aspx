@@ -39,7 +39,7 @@
         If Convert.ToInt32(T3.Text) = (CInt(A.Text) + CInt(B.Text)) Then
             D.Text = "完全正確~想必你下了許多苦心歐~"
         Else
-            D.Text = "再想想看，助教很期待你的成長歐~"
+            D.Text = "再想想看，助教很期待你的成長歐~!!!"
         End If
     End Sub
 
